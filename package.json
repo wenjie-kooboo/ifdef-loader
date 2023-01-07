@@ -9,7 +9,7 @@
     "@types/node": "^7.0.5",
     "jasmine": "^2.5.3",
     "typescript": "^2.2.1",
-    "webpack": "^3.5.5"
+    "webpack": "^5.75.0"
   },
   "scripts": {
     "test": "node node_modules/webpack/bin/webpack.js & tsc & jasmine --no-color"
